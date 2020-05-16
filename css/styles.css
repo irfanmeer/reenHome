@@ -1,0 +1,99 @@
+/* font-family: 'Lato', sans-serif;
+font-family: 'Source Sans Pro', sans-serif; */
+
+html, body {
+    margin: 0;
+    text-align: center;
+}
+
+.back-g {
+    text-align: center;
+    padding: 15% 25%;
+    color: #fff;
+    /* The image used */
+    background-image: url("/images/header_bg.png");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .back-g p {
+      color: #a0a0a0;
+  }
+
+  .b-1-text {
+    text-align: center;
+    padding: 5% 15%;
+  }
+
+  #b-1 i {
+      color: #00aa55;
+  }
+
+  #b-1 h2, #b-1 h3, #b-1 p {
+      color: #666666;
+  }
+
+  #portfolio {
+      
+      
+      background-color: #d3d3d3;
+  }
+     
+  .port-top {
+      text-align: center;
+      color: #666666;
+      padding: 5% 15% 3% 15%;
+  }
+
+.card {
+    text-align: center;
+  background-color: #fff;
+}
+
+.row {
+    margin: 0;
+}
+
+.car-center {
+text-align: center;
+padding: 50px 115px;
+/* padding-left: 100px;
+padding-right: 100px; */
+}
+
+.row .col-md-3 {
+    padding: 0 10px;
+}
+
+.row .col-md-3 img {
+    width: 200px;
+    height: auto;
+}
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+  }
+
+.want-work {
+    width: auto;
+    height: 300px;
+    padding: 7% 15%;
+}
+
+#tp-foot {
+    background-color: #2f4052;
+    width: auto;
+    height: auto;
+    padding: 7% 15%;
+}
+.col-6 .img-fluid {
+margin: 5px 0;
+padding: 0;
+}
